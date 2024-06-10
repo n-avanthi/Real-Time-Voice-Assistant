@@ -19,7 +19,7 @@ This project is a real-time voice assistant implemented in Python. It utilizes s
 2. Navigate to the project directory:
 
     ```bash
-    cd real-time-voice-assistant
+    cd Real-Time-Voice-Assistant
     ```
 
 3. Create and update the `.env` file:
@@ -33,7 +33,7 @@ This project is a real-time voice assistant implemented in Python. It utilizes s
 1. Run the main Python script:
 
     ```bash
-    python voice_assistant.py
+    python Voice-Assistant.py
     ```
 
 2. Once the program is running, the voice assistant will listen for commands. Speak clearly and wait for the assistant to respond.
