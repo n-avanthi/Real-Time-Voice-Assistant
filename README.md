@@ -43,8 +43,9 @@ This project is a real-time voice assistant implemented in Python. It utilizes s
    - "Tell me a joke."
    - "Open Google."
    - "Play some music."
-
+     
    Under the `output` folder, a sample demo image is present.
+4. The keyword 'exit' can be used to exit out of a conversation 
 
 ## Acknowledgments
 
