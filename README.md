@@ -39,10 +39,9 @@ This project is a real-time voice assistant implemented in Python. It utilizes s
 2. Once the program is running, the voice assistant will listen for commands. Speak clearly and wait for the assistant to respond.
 
 3. You can interact with the voice assistant using various commands such as:
-   - "What's the weather like today?"
+   - "What colors are in a rainbow?"
    - "Tell me a joke."
-   - "Open Google."
-   - "Play some music."
+   - "What is the capital of Canada?"
      
    Under the `output` folder, a sample demo image is present.
 4. The keyword 'exit' can be used to exit out of a conversation 
